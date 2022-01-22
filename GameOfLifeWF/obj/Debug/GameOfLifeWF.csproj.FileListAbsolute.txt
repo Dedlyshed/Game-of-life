@@ -1,0 +1,11 @@
+C:\Users\lyosh\source\repos\GameOfLifeWF\GameOfLifeWF\bin\Debug\GameOfLifeWF.exe.config
+C:\Users\lyosh\source\repos\GameOfLifeWF\GameOfLifeWF\bin\Debug\GameOfLifeWF.exe
+C:\Users\lyosh\source\repos\GameOfLifeWF\GameOfLifeWF\bin\Debug\GameOfLifeWF.pdb
+C:\Users\lyosh\source\repos\GameOfLifeWF\GameOfLifeWF\obj\Debug\GameOfLifeWF.csprojAssemblyReference.cache
+C:\Users\lyosh\source\repos\GameOfLifeWF\GameOfLifeWF\obj\Debug\GameOfLifeWF.Properties.Resources.resources
+C:\Users\lyosh\source\repos\GameOfLifeWF\GameOfLifeWF\obj\Debug\GameOfLifeWF.csproj.GenerateResource.cache
+C:\Users\lyosh\source\repos\GameOfLifeWF\GameOfLifeWF\obj\Debug\GameOfLifeWF.csproj.CoreCompileInputs.cache
+C:\Users\lyosh\source\repos\GameOfLifeWF\GameOfLifeWF\obj\Debug\GameOfLifeWF.exe
+C:\Users\lyosh\source\repos\GameOfLifeWF\GameOfLifeWF\obj\Debug\GameOfLifeWF.pdb
+C:\Users\lyosh\source\repos\GameOfLifeWF\GameOfLifeWF\obj\Debug\GameOfLifeWF.MenuForm.resources
+C:\Users\lyosh\source\repos\GameOfLifeWF\GameOfLifeWF\obj\Debug\GameOfLifeWF.Game.resources

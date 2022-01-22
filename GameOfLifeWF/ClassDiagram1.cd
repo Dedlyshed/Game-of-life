@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameOfLifeWF.GameOfLifeCells">
+    <Position X="5" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAgACAAABAAAAAAAAAIAAEAAQgAAAAACAAAAAAAAABA=</HashCode>
+      <FileName>GameOfLifeCells.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameOfLifeWF.GameOfLifeField">
+    <Position X="2.5" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAQAAAEAAAAAACAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>GameOfLifeField.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameOfLifeWF.GameOfLifeShapes">
+    <Position X="7.25" Y="0.5" Width="3" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="GameOfLifeWF.GameOfLifeShapes.Line">
+        <TypeIdentifier>
+          <NewMemberFileName>GameOfLifeShapes.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="GameOfLifeWF.GameOfLifeShapes.Rect">
+        <TypeIdentifier>
+          <NewMemberFileName>GameOfLifeShapes.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="GameOfLifeWF.GameOfLifeShapes.Elipse">
+        <TypeIdentifier>
+          <NewMemberFileName>GameOfLifeShapes.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAgAAAAAAIAEAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameOfLifeShapes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
